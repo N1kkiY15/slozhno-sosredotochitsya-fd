@@ -354,16 +354,13 @@ h3 {
   .header__theme-menu {
     justify-self: center;
     margin-bottom: auto;
+    grid-column: 1;
   }
 
   .header__theme-menu-list {
     display: flex;
     flex-direction: row;
     gap: 10px;
-  }
-
-  .header__theme-menu {
-    grid-column: 1;
   }
 
   .header p {
