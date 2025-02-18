@@ -40,3 +40,9 @@ a {
   text-decoration: none;
   cursor: pointer;
 }
+
+button,
+a:focus {
+  outline: none;
+}
+
